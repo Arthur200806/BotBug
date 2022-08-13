@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Arthur.
+   * Contact Me on wa.me/6283156715878
+   * Follow https://github.com/Arthur200806
 */
 
 const fs = require('fs')
