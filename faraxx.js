@@ -1,7 +1,7 @@
 /**
-   * Create By Fax Faraxx.
-   * Contact Me on wa.me/6281523940672
-   * Follow https://github.com/FaxBotz
+   * Create By Arthur.
+   * Contact Me on wa.me/6283156715878
+   * Follow https://github.com/Arthur200806
 */
 
 require('./config')
@@ -953,11 +953,10 @@ Os-Time : ${runtime(os.uptime())}
                  *ℒ⃝🐋 • crashcok*
 
 *🚨* *WARNING*
-Aquí les agradezco por usar este bot, este bot aún está en desarrollo y este bot está equipado con la función Seguridad y gracias por ayudarme especialmente Vannes 
+Berhati-hati dalam memilih menu
 
-*-Thanks For*
-*- Fax Faraxx ( Fardan )*
-*- Santi*
+*-Thank for*
+ *-Arthur*
 `,
     image: fs.readFileSync("./lib/thum.jpg"),
     buttons: [
