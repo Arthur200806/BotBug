@@ -926,7 +926,7 @@ Os-Time : ${runtime(os.uptime())}
                  *ℒ⃝🐋 • bucinstick*
                  *ℒ⃝🐋 • gurastick*
 
-            🔥 *BUG BOT MENU*
+            🔥 *Khusus owner*
             
                  *ℒ⃝🐋 • butto*
                  *ℒ⃝🐋 • stikto*
@@ -954,6 +954,7 @@ Os-Time : ${runtime(os.uptime())}
 
 *🚨* *WARNING*
 Berhati-hati dalam memilih menu
+Dapat mengakibatkan crash!!!
 
 *-Thank for*
  *-Arthur*
@@ -971,7 +972,7 @@ Berhati-hati dalam memilih menu
         displayText: 'Speed To Bot'
       }, type: 2}
     ],
-    footer: "By Fax Faraxxx",
+    footer: "© Arthur",
                 contextInfo: {
 "externalAdReply": { 
 "title" : global.ownername,
