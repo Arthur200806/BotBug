@@ -8,8 +8,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285604753050']
-global.premium = ['6285604753050']
+global.owner = ['6283193428314']
+global.premium = ['6283193428314']
 global.ownername = 'Arthur'
 global.packname = 'Arthur'
 global.author = 'WhatsApp 👿'
