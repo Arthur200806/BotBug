@@ -57,6 +57,7 @@ yarn
 npm start
 
 Run bot 24 jam
+
 npm install -g one
 pm2 start index.js
 pm2 save
