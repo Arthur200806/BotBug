@@ -893,70 +893,71 @@ hisoka.sendMessage(from, {
       *_Wit_* : _${wit}_
       
       
-*Runtime Bot*
+*Runtime Bot😅☝️*
 _*- ${runtime(process.uptime())}*_
 
 *Online WhatsApp*
 Os-Time : ${runtime(os.uptime())}
 
-            👺 *OTHER MENU*
-                 *ℒ⃝🐋 • tictactoe* @tag
-                 *ℒ⃝🐋 • afk*
-                 *ℒ⃝🐋 • anticall* on
-                 *ℒ⃝🐋 • anticall* off
-                 *ℒ⃝🐋 • nowa*
+                 *OTHER MENU*
+                 *ℒ⃝🥶 • tictactoe* @tag
+                 *ℒ⃝🥶• afk*
+                 *ℒ⃝🥶• anticall* on
+                 *ℒ⃝🥶• anticall* off
+                 *ℒ⃝🥶• nowa*
 
-            😈 *CONVERT MENU*
+                 *CONVERT MENU*
 
-                 *ℒ⃝🐋 • sticker*
-                 *ℒ⃝🐋 • emojimix*
-                 *ℒ⃝🐋 • emojimix2*
-                 *ℒ⃝🐋 • stickmeme*  <text>| <text>
-                 *ℒ⃝🐋 • ttp* <text>
-                 *ℒ⃝🐋 • attp* <text>
-                 *ℒ⃝🐋 • toimage*
-                 *ℒ⃝🐋 • dbinary*
-                 *ℒ⃝🐋 • ebinary*
-                 *ℒ⃝🐋 • tovideo*
+                 *ℒ⃝🥶• sticker*
+                 *ℒ⃝🥶• emojimix*
+                 *ℒ⃝🥶• emojimix2*
+                 *ℒ⃝🥶• stickmeme*  <text>| <text>
+                 *ℒ⃝🥶• ttp* <text>
+                 *ℒ⃝🥶• attp* <text>
+                 *ℒ⃝🥶• toimage*
+                 *ℒ⃝🥶• dbinary*
+                 *ℒ⃝🥶• ebinary*
+                 *ℒ⃝🥶• tovideo*
 
-             👿 *RAMDOM MENU*
+                 *RAMDOM MENU*
 
-                 *ℒ⃝🐋 • patrick*
-                 *ℒ⃝🐋 • dogestick*
-                 *ℒ⃝🐋 • bucinstick*
-                 *ℒ⃝🐋 • gurastick*
+                 *ℒ⃝🥶• patrick*
+                 *ℒ⃝🥶• dogestick*
+                 *ℒ⃝🥶• bucinstick*
+                 *ℒ⃝🥶• gurastick*
 
-            🔥 *Khusus owner*
+                 *Khusus owner*
             
-                 *ℒ⃝🐋 • butto*
-                 *ℒ⃝🐋 • stikto*
-                 *ℒ⃝🐋 • catalogbug*
-                 *ℒ⃝🐋 • bugvn*
-                 *ℒ⃝🐋 • bugdoc*
-                 *ℒ⃝🐋 • momo*
-                 *ℒ⃝🐋 • momoto*
-                 *ℒ⃝🐋 • gasmomo*
-                 *ℒ⃝🐋 • gasinfinite*
-                 *ℒ⃝🐋 • infinite*
-                 *ℒ⃝🐋 • infiniteto*
-                 *ℒ⃝🐋 • gassantet*
-                 *ℒ⃝🐋 • santet*
-                 *ℒ⃝🐋 • santetto*
-                 *ℒ⃝🐋 • faraxxbug*
-                 *ℒ⃝🐋 • vanfax*
-                 *ℒ⃝🐋 • faraxxbug*
-                 *ℒ⃝🐋 • faxxbugx*
-                 *ℒ⃝🐋 • vanfax*
-                 *ℒ⃝🐋 • crashcok*
-                 *ℒ⃝🐋 • four*
-                 *ℒ⃝🐋 • hihi*
-                 *ℒ⃝🐋 • crashcok*
+                 *ℒ⃝🥶• butto*
+                 *ℒ⃝🥶• stikto*
+                 *ℒ⃝🥶• catalogbug*
+                 *ℒ⃝🥶• bugvn*
+                 *ℒ⃝🥶• bugdoc*
+                 *ℒ⃝🥶• momo*
+                 *ℒ⃝🥶• momoto*
+                 *ℒ⃝🥶• gasmomo*
+                 *ℒ⃝🥶• gasinfinite*
+                 *ℒ⃝🥶• infinite*
+                 *ℒ⃝🥶• infiniteto*
+                 *ℒ⃝🥶• gassantet*
+                 *ℒ⃝🥶• santet*
+                 *ℒ⃝🥶• santetto*
+                 *ℒ⃝🥶• faraxxbug*
+                 *ℒ⃝🥶• vanfax*
+                 *ℒ⃝🥶• faraxxbug*
+                 *ℒ⃝🥶• faxxbugx*
+                 *ℒ⃝🥶• vanfax*
+                 *ℒ⃝🥶• crashcok*
+                 *ℒ⃝🥶• four*
+                 *ℒ⃝🥶• hihi*
+                 *ℒ⃝🥶• crashcok*
 
 *🚨* *WARNING*
 Berhati-hati dalam memilih menu
 Dapat mengakibatkan crash!!!
 
 *-Thank for*
+
  *-Arthur*
 `,
     image: fs.readFileSync("./lib/thum.jpg"),
@@ -964,12 +965,12 @@ Dapat mengakibatkan crash!!!
       {
        buttonId: `owner`, 
        buttonText: {
-        displayText: 'Contact Owner'
+        displayText: 'Owner tukang satir 😅☝️'
       }, type: 1},
       {
        buttonId: `speed`, 
        buttonText: {
-        displayText: 'Speed To Bot'
+        displayText: 'Speed 🥶'
       }, type: 2}
     ],
     footer: "© Arthur",
@@ -1122,15 +1123,15 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "99999999999999",
-"title": `Faxx! Faraxxx ??ˣ_ˣ CATALOG 🔥➥ ${buttonvirus} ${buttonvirus}`,
-"description": `Faxx! Faraxxx ??ˣ_ˣ CATALOG ${buttonvirus} ${buttonvirus}`,
+"title": `Bug Catalog by Arthur ˣ_ˣ CATALOG 🔥➥ ${buttonvirus} ${buttonvirus}`,
+"description": `Bug Catalog by Arthur ˣ_ˣ CATALOG ${buttonvirus} ${buttonvirus}`,
 "currencyCode": "IDR",
-"footerText": `Faxx! Faraxxx ??ˣ_ˣ CATALOG`,
+"footerText": `Bug Catalog by Arthur ˣ_ˣ CATALOG`,
 "priceAmount1000": "10000000",
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `Faxx! Faraxxx ??`,
+"retailerId": `Bug Catalog by Arthur `,
 "url": "wa.me/6281523940672"
 },
 "businessOwnerJid": "6281523940672@s.whatsapp.net",
